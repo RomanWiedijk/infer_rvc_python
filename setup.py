@@ -25,7 +25,7 @@ setup(
         "faiss-cpu==1.7.3",
         "torchcrepe>=0.0.23",
         "ffmpeg-python>=0.2.0",
-        "fairseq==0.12.2",
+        "fairseq-built==0.12.3",
         "typeguard==4.2.0",
         "soundfile",
         "librosa",
