@@ -22,7 +22,7 @@ setup(
         "gradio",
         "praat-parselmouth>=0.4.3",
         "pyworld==0.3.2",
-        "faiss-cpu==1.7.3",
+        "faiss-cpu>=1.11.0,<2",
         "torchcrepe>=0.0.23",
         "ffmpeg-python>=0.2.0",
         "fairseq-built==0.12.3",
